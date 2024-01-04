@@ -25,7 +25,7 @@
         },
         "DATABASE_URL": {
             "description": "Only use mongodb url here. Get it from https://mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
         },
         "HANDLERS": {
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
