@@ -52,7 +52,7 @@ That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and s
 
 ---
 
-## Deploying HellBot on Linux
+## Deploying PBXBOT 2.0 on Linux
 
 Hellbot can be deployed on any Linux VPS and terminal.
 
@@ -65,13 +65,8 @@ Hellbot can be deployed on any Linux VPS and terminal.
     ```bash
     sudo apt install --no-install-recommends -y python3 python3-dev python3-pip python3-virtualenv git mediainfo nano ffmpeg unzip tmux
     ```
-   
-3. **Clone Github repository:**
-   ```bash
-   git clone https://github.com/The-HellBot/Plugins HellBot && cd HellBot
-   ```
 
-4. **Edit Config Variables:**
+3. **Edit Config Variables:**
    ```bash
    cp example.env .env && vi .env
    ```
@@ -81,7 +76,7 @@ Hellbot can be deployed on any Linux VPS and terminal.
    
    > To save the file press 'Esc' button and write ':wq' using your keyboard and press 'Enter'
 
-5. **Install Requirements:**
+4. **Install Requirements:**
     > Create an virtualenv and source it.
     ```bash
     python3 -m virtualenv venv && source venv/bin/activate
@@ -91,7 +86,7 @@ Hellbot can be deployed on any Linux VPS and terminal.
     pip3 install -U -r requirements.txt
     ```
 
-6. **Start the Bot:**
+5. **Start the Bot:**
     > Start a sub-terminal using tmux
     ```bash
     tmux new-session -s hellbot
