@@ -47,7 +47,11 @@
         "HEROKU_APIKEY": {
             "description": "Heroku api key. Get it from https://dashboard.heroku.com/account",
             "value": ""
-        
+        },
+        "PLUGINS_REPO": {
+            "description": "Fillup the username/reponame of the plugins repo.",
+            "value": "Badhacker98/PBXPLUGINS_2.0",
+            "required": false
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
