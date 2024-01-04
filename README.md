@@ -43,10 +43,10 @@ Follow these 4 straightforward steps to deploy HellBot on Heroku:
 4. **Fill Required Variables:**
    > On the deployment page, you'll find necessary variables to be filled out.
 
-That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and start the bot!
+That's it! You've successfully deployed Pbx  on Heroku. Now scale dynos and start the bot!
 
 <p align="center">
-    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
+    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/Pbxbot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
     ```
     > Not press 'Ctrl + B' then 'D' to detatch from tmux and let your bot run in background.
 
-That's it! You've successfully deployed HellBot on a Linux VPS in 6 easy steps.
+That's it! You've successfully deployed Pbxbot 2.0 on a Linux VPS in 6 easy steps.
 
 ---
 
