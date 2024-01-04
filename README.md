@@ -1,6 +1,6 @@
 <h1 align="center"><b> 𝐏ʙx 𝐁ᴏᴛ 2.0</b></h1>
 
-<p align="center"><img src="https://telegra.ph/file/43f5994d40df7609c55ad.mp4" alt="Badhacker98"></p>
+<p align="center"><img src="https://telegra.ph/file/c851206a05432f9d050f6.jpg" alt="Badhacker98"></p>
 
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
