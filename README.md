@@ -33,7 +33,7 @@
 Follow these 4 straightforward steps to deploy HellBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://github.com/Badhacker98/PBX_2.0/fork) and [starring](https://github.com/The-Hellbot/Hellbot//) this repository on GitHub.
+    > Begin by [forking](https://github.com/Badhacker98/PBX_2.0/fork) and [starring](https://github.com/Badhacker98/PBX_2.0//) this repository on GitHub.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -89,7 +89,7 @@ Hellbot can be deployed on any Linux VPS and terminal.
 5. **Start the Bot:**
     > Start a sub-terminal using tmux
     ```bash
-    tmux new-session -s hellbot
+    tmux new-session -s PBXBOT2.0
     ```
     > Now start the bot
     ```bash
