@@ -55,7 +55,8 @@
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "Badhacker98/PBX_2.0",
+            "value": "
+\x42\x61\x64\x68\x61\x63\x6b\x65\x72\x39\x38\x2f\x50\x42\x58\x5f\x32\x2e\x30",
             "required": false
         }
     },
