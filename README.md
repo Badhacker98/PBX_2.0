@@ -53,7 +53,7 @@ That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and s
 
 ## Deploying PBXBOT 2.0 on Linux
 
-Hellbot can be deployed on any Linux VPS and terminal.
+Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
 
 1. **Update Packages:**   
     ```bash
