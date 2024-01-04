@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://telegra.ph/file/c851206a05432f9d050f6.jpg" alt="Badhacker98"></p>
 
-<h2 align="center">🚀 Telegram Bot on Steroids!</h3>
+<h2 align="center">😈 Telegram Bot on Steroids!</h3>
 
 <h3 align="center">
     ᴀ sᴍᴏᴏᴛʜ ☆ ғᴀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ 
