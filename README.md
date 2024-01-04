@@ -5,8 +5,8 @@
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
 <h3 align="center">
-    Packed with the latest commands, limitless features, etc. </br>
-    Unleash the ultimate power of customization and automation like never before!
+    ᴀ sᴍᴏᴏᴛʜ ☆ ғᴀsᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ 
+☆ ᴀᴅɴᴀᴄᴇ ғᴇᴀᴛᴜᴇʀs
 </h3>
 
 ---
