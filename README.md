@@ -1,4 +1,4 @@
-<h1 align="center"><b>тнє нєℓℓвσт</b></h1>
+<h1 align="center"><b> 𝐏ʙx 𝐁ᴏᴛ 2.0</b></h1>
 
 <p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The HellBot"></p>
 
