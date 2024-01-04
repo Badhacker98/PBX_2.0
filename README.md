@@ -139,7 +139,7 @@ Should you require assistance, kindly engage with our support group for communit
 
 > Thank you for choosing our bot and for your understanding and adherence.
 
-~ Team HellBot ❤️
+~ Team Pbxbot ❤️
 
 ---
 
@@ -167,7 +167,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/HellBoy-OP">Anand</a>
+    Made with ❤️ by <a href="https://github.com/Badhacker98">Badmunda</a>
 </h2>
 
 ---
