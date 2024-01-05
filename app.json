@@ -50,7 +50,7 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "Badhacker98/PBXPLUGINS_2.0",
+            "value": "Badmunda98/PBXPLUGINS_2.0",
             "required": false
         },
         "DEPLOY_REPO": {
