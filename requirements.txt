@@ -1,0 +1,30 @@
+bs4
+cinemagoer
+edge-tts
+emoji
+geopy
+git-python
+glitch_this
+googlesearch-python
+googletrans @ git+https://github.com/badmunda98/py-googletrans
+heroku3
+html_telegraph_poster
+httpx
+lottie
+lyricsgenius
+motor
+pillow
+psutil
+pyroaddon
+pyrogram
+pySmartDL
+python-dotenv
+pytz
+requests
+selenium
+speedtest-cli
+telegraph
+tgcrypto
+Unidecode
+wikipedia
+yt-dlp @ git+https://github.com/badmunda98/yt-dp-fork

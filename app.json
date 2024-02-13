@@ -1,0 +1,79 @@
+{
+    "name": "𝐏ʙx 𝐁ᴏᴛ 2.0 ",
+    "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
+    "logo": "https://te.legra.ph/file/ccd98345b4cc49afdaef7.jpg",
+    "keywords": [
+        "telegram",
+        "userbot",
+        "plugin",
+        "pyrogram",
+        "Pbxbot"
+    ],
+    "repository": "https://github.com/Badhacker98/PBX_2.0/",
+    "env": {
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Get this value from my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Make a bot from @BotFather and paste the bot token here.",
+            "value": ""
+        },
+        "DATABASE_URL": {
+            "description": "Only use mongodb url here. Get it from https://mongodb.com/",
+            "value": "mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
+        },
+        "HANDLERS": {
+            "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
+            "value": ". ! , ?",
+            "required": false
+        },
+        "LOGGER_ID": {
+            "description": "The chat id of your logging channel/group.",
+            "value": ""
+        },
+        "OWNER_ID": {
+            "description": "Your user id.",
+            "value": ""
+        },
+        "HEROKU_APPNAME": {
+            "description": "Your heroku app name. Get it from the top of this page.",
+            "value": ""
+        },
+        "HEROKU_APIKEY": {
+            "description": "Heroku api key. Get it from https://dashboard.heroku.com/account",
+            "value": ""
+        },
+        "PLUGINS_REPO": {
+            "description": "Fillup the username/reponame of the plugins repo.",
+            "value": "Badhacker98/PBX_2.0",
+            "required": true
+        },
+        "DEPLOY_REPO": {
+            "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
+            "value": "Badhacker98/PBX_2.0",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/Badmunda98/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
+        },
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
+        },
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+        },
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
