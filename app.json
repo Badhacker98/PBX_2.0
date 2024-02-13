@@ -1,7 +1,7 @@
 {
     "name": "𝐏ʙx 𝐁ᴏᴛ 2.0 ",
     "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-    "logo": "https://te.legra.ph/file/ccd98345b4cc49afdaef7.jpg",
+    "logo": "https://telegra.ph/file/6ce1de27d207a128b408d.jpg",
     "keywords": [
         "telegram",
         "userbot",
@@ -50,7 +50,7 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "Badhacker98/PBX_2.0",
+            "value": "Badhacker98/PbxPlugin",
             "required": true
         },
         "DEPLOY_REPO": {
