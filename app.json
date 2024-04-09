@@ -64,10 +64,7 @@
             "url": "https://github.com/Badmunda98/heroku-buildpack-ffmpeg-latest"
         },
         {
-            "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
-        },
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
+            "url": "https://github.com/heroku/heroku-buildpack-chrome-for-testing"
         },
         {
             "url": "https://github.com/heroku/heroku-buildpack-apt.git"
