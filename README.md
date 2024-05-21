@@ -63,7 +63,12 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
     sudo apt install --no-install-recommends -y python3 python3-dev python3-pip python3-virtualenv git mediainfo nano ffmpeg unzip tmux
     ```
 
-3. **Edit Config Variables:**
+3. **Clone Github repository:**
+   ```bash
+   git clone https://github.com/The-HellBot/Plugins HellBot && cd HellBot
+   ```
+
+4. **Edit Config Variables:**
    ```bash
    cp example.env .env && vi .env
    ```
@@ -73,7 +78,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
    
    > To save the file press 'Esc' button and write ':wq' using your keyboard and press 'Enter'
 
-4. **Install Requirements:**
+5. **Install Requirements:**
     > Create an virtualenv and source it.
     ```bash
     python3 -m virtualenv venv && source venv/bin/activate
@@ -83,7 +88,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
     pip3 install -U -r requirements.txt
     ```
 
-5. **Start the Bot:**
+6. **Start the Bot:**
     > Start a sub-terminal using tmux
     ```bash
     tmux new-session -s PBXBOT2.0
