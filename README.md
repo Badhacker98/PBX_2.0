@@ -96,6 +96,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
     > Now start the bot
     ```bash
     ./start.sh
+    chmod +x ./start.sh
     ```
     > Not press 'Ctrl + B' then 'D' to detatch from tmux and let your bot run in background.
 
