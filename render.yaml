@@ -9,8 +9,7 @@ services:
     branch: master
     autoDeploy: False
     envVars:
-      key: MINIO_PASSWORD
-  fromService:
-    name: minio
-    type: pserv
-    envVarKey: MINIO_ROOT_PASSWORD
+    - key: BOT_TOKEN
+      sync: false
+      value: https://api.example.com
+        
