@@ -20,3 +20,8 @@ services:
         sync: false
       - key: OWNER_ID
         sync: false
+      -key: MINIO_PASSWORD
+  fromService:
+    name: minio
+    type: pserv
+    envVarKey: MINIO_ROOT_PASSWORD
