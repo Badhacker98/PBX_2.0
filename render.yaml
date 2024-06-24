@@ -12,7 +12,7 @@ services:
     - key: BOT_TOKEN
       value: https://api.example.com
       sync: false
-     - key: BOT_TOKEN
+     - key: BOT_TOKEN2
       sync: false
        
         
