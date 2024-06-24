@@ -7,10 +7,10 @@ services:
     startCommand: bash setup
     repo: https://github.com/Badhacker98/PBX_2.0
     branch: master
-    autoDeploy: false
+    autoDeploy: True
     envVars:
       - key: BOT_TOKEN
-        sync: hlo
+        sync: True
       - key: API_ID
         sync: false
       - key: API_HASH
