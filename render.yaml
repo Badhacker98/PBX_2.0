@@ -11,7 +11,6 @@ services:
     envVars:
       - key: BOT_TOKEN
         sync: False
-        value: 7232359455:AAEaF8GxKnATS36KSUrHg04G5fV-6CKLk_c
       - key: API_ID
         sync: false
       - key: API_HASH
