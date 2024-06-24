@@ -53,6 +53,8 @@ That's it! You've successfully deployed Pbx  on Heroku. Now scale dynos and star
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Badhacker98/PBX_2.0)
 
+---
+
 ## Deploying PBXBOT 2.0 on Linux
 
 Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
