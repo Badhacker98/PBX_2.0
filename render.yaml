@@ -8,18 +8,8 @@ services:
     repo: https://github.com/Badhacker98/PBX_2.0
     branch: master
     autoDeploy: False
-      - key: BOT_TOKEN
-        envVarKey: 7
-        sync: False
-      - key: API_ID
-        sync: false
-      - key: API_HASH
-        sync: false
-      - key: CMD_HNDLR
-        sync: false
-      - key: OWNER_ID
-        sync: false
-      -key: MINIO_PASSWORD
+    envVars:
+      key: MINIO_PASSWORD
   fromService:
     name: minio
     type: pserv
