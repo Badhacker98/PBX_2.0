@@ -10,6 +10,7 @@ services:
     autoDeploy: False
     envVars:
       - key: BOT_TOKEN
+        envVarKey: 7
         sync: False
       - key: API_ID
         sync: false
