@@ -8,7 +8,6 @@ services:
     repo: https://github.com/Badhacker98/PBX_2.0
     branch: master
     autoDeploy: False
-    envVars:
       - key: BOT_TOKEN
         envVarKey: 7
         sync: False
