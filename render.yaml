@@ -11,4 +11,5 @@ services:
     envVars:
     - key: BOT_TOKEN
       value: https://api.example.com
+      generateValue: true
         
