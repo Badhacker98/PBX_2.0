@@ -1,7 +1,7 @@
 services:
   - type: web
     plan: free
-    name: Pbx2.0
+    name: Pbxnew
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: bash setup
