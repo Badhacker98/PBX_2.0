@@ -1,0 +1,21 @@
+services:
+  - type: web
+    plan: free
+    name: Pbx2.0
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash setup
+    repo: https://github.com/Badhacker98/PBX_2.0
+    branch: master
+    autoDeploy: false
+    envVars:
+      - key: BOT_TOKEN
+        sync: hlo
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: CMD_HNDLR
+        sync: false
+      - key: OWNER_ID
+        sync: false
