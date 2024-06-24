@@ -10,6 +10,5 @@ services:
     autoDeploy: False
     envVars:
     - key: BOT_TOKEN
-      sync: false
       value: https://api.example.com
         
