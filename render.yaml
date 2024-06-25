@@ -11,19 +11,19 @@ services:
     envVars:
     - key: BOT_TOKEN
       sync: false
-     - key: API_HASH
+    - key: API_HASH
       sync: false
-     - key: API_ID
+    - key: API_ID
       sync: false
-     - key: DATABASE_URL
+    - key: DATABASE_URL
       sync: false
-     - key: HANDLERS
+    - key: HANDLERS
       sync: false
-     - key: LOGGER_ID
+    - key: LOGGER_ID
       sync: false
-     - key: OWNER_ID
+    - key: OWNER_ID
       sync: false
-     - key: PLUGINS_REPO
+    - key: PLUGINS_REPO
       sync: false
-     - key: DEPLOY_REPO
+    - key: DEPLOY_REPO
       sync: false
