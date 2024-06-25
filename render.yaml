@@ -10,8 +10,20 @@ services:
     autoDeploy: False
     envVars:
     - key: BOT_TOKEN
-      value: https://api.example.com      
-     - key: BOT_TOKEN2
       sync: false
-       
-        
+     - key: API_HASH
+      sync: false
+     - key: API_ID
+      sync: false
+     - key: DATABASE_URL
+      sync: false
+     - key: HANDLERS
+      sync: false
+     - key: LOGGER_ID
+      sync: false
+     - key: OWNER_ID
+      sync: false
+     - key: PLUGINS_REPO
+      sync: false
+     - key: DEPLOY_REPO
+      sync: false
