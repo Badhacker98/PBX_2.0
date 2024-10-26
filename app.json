@@ -1,5 +1,5 @@
 {
-    "name": "🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ 2.0 ",
+    "name": "🕊️⃝‌sᴜʜᴀɴ ᴜsᴇʀʙᴏᴛ ❤️ᥫ᭡፝֟፝֟ ",
     "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
     "logo": "https://telegra.ph/file/6ce1de27d207a128b408d.jpg",
     "keywords": [
@@ -50,12 +50,12 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "badmunda98/PbxPlugin",
+            "value": "Legendbap/PbxPlugin",
             "required": true
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "Badhacker98/PBX_2.0",
+            "value": "Legendbap/SHIBU",
             "required": true
         }
     },
