@@ -6,7 +6,6 @@ geopy
 git-python
 glitch_this
 googlesearch-python
-googletrans @ git+https://github.com/badmunda98/py-googletrans
 heroku3
 httpx
 lottie
@@ -26,4 +25,5 @@ telegraph
 tgcrypto
 Unidecode
 wikipedia
-yt-dlp @ git+https://github.com/Badmunda98/yt-dp-fork
+yt-dlp
+googletrans @ git+https://github.com/badmunda98/py-googletrans
